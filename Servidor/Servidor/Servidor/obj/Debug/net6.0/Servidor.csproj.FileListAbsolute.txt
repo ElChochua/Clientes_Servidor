@@ -1,0 +1,15 @@
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\bin\Debug\net6.0\Servidor.exe
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\bin\Debug\net6.0\Servidor.deps.json
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\bin\Debug\net6.0\Servidor.runtimeconfig.json
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\bin\Debug\net6.0\Servidor.dll
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\bin\Debug\net6.0\Servidor.pdb
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\Servidor.csproj.AssemblyReference.cache
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfoInputs.cache
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfo.cs
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\Servidor.csproj.CoreCompileInputs.cache
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\Servidor.dll
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\refint\Servidor.dll
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\Servidor.pdb
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\Servidor.genruntimeconfig.cache
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Servidor\Servidor\obj\Debug\net6.0\ref\Servidor.dll

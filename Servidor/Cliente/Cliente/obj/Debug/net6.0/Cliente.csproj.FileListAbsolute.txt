@@ -1,0 +1,15 @@
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\bin\Debug\net6.0\Cliente.exe
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\bin\Debug\net6.0\Cliente.deps.json
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\bin\Debug\net6.0\Cliente.runtimeconfig.json
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\bin\Debug\net6.0\Cliente.dll
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\bin\Debug\net6.0\Cliente.pdb
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\Cliente.csproj.AssemblyReference.cache
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfoInputs.cache
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfo.cs
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\Cliente.csproj.CoreCompileInputs.cache
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\Cliente.dll
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\refint\Cliente.dll
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\Cliente.pdb
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\Cliente.genruntimeconfig.cache
+D:\Practicas_Programacion_Distribuida\Practicas_Sockets\C++ Cliente-Servidor\Servidor\Cliente\Cliente\obj\Debug\net6.0\ref\Cliente.dll
